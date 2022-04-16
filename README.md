@@ -6,7 +6,7 @@
 
 
 - 💻 If you want the dislike button back on youtube, here. You're welcome. UserScript is available at https://www.returnyoutubedislike.com/
-- What's that? WWhy use a UserScript for Safari and not a Chrome Extension? Because 4KHDR looks better on Safari, that's why. Plus, I like my RAM where I can see it. 
+- What's that? Why use a UserScript for Safari and not a Chrome Extension? Because 4KHDR looks better on Safari, that's why. Plus, I like my RAM where I can see it. 
 
 
 <!---
